@@ -17,6 +17,9 @@ Buscabas el mejor sitio de mantenimiento en computadoras acabas de llegar al lug
 Facebook: Soporte y mantenimiento Akaza
 Instragram: @soporteymantenimientoakaza*
 
+*Nuestro número oficial 5610258642*
+*Número de repuesto 5528794963*
+
 
 
 
