@@ -4,18 +4,18 @@
 ## Bienvenido a Soporte y mantenimiento Akaza
 
 
-*Negrita* En esta empresas nos dedicamos a todo tipo de soporte y mantenimiento
+*En esta empresas nos dedicamos a todo tipo de soporte y mantenimiento*
 
 
 Buscabas el mejor sitio de mantenimiento en computadoras acabas de llegar al lugar correcto en Soporte y mantenimiento Akaza te ayudamos con cualquier duda o problema que se presente en tu equipo cómputo 
 
 
-*Cursiva* En el momento en que llames y solicites un técnico hasta tu casa al momento llegará hasta la puerta de tu casa 
+*En el momento en que llames y solicites un técnico hasta tu casa al momento llegará hasta la puerta de tu casa*
 
 
-*Negrita* Puedes contactarnos en nuestra página oficial de facebook 
+*Puedes contactarnos en nuestra página oficial de facebook 
 Facebook: Soporte y mantenimiento Akaza
-Instragram: @soporteymantenimientoakaza
+Instragram: @soporteymantenimientoakaza*
 
 
 
