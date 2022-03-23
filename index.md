@@ -1,5 +1,4 @@
-[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ] (FAQ.md) . [Ubicación](ubicación.md) . [Contacto](./contacto.md)
-
+[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
 ## Bienvenido a Soporte y mantenimiento Akaza
 
