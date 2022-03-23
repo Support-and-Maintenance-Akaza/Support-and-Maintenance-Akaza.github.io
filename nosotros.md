@@ -6,4 +6,4 @@ Con mas de 20 años de experiencia en Mantenimiento akaza les ofrecemos todo tip
 contamos con tecnicos especializados con certificacion 
 
 * Ayudando y contribuyendo poniento a tu dispocicion a los mejores tecnicos en mantenimiento en computadoras con la mejor calidad
- para que en cualquier momento que solicites juntos seremos la mejor empresa del mundo :3*
+ para que en cualquier momento que solicites juntos seremos la mejor empresa del mundo :3
