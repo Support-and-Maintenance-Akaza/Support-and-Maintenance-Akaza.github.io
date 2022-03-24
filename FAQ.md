@@ -143,6 +143,30 @@ R: limpieza de software ( virus,spyware,adware,etc)
 
 R: es necesario optimizar el pregama de inicio o una limpieza de software
 
+¿Las imagenes del monitor no tienen todos los colores?
+
+R: Los controladores del Dispositivo no están instalados correctamente. b) 
+El dispositivo tiene un conflicto de recursos (IRQ) direcciones de memorias.
+
+¿Módulos en mal estado?
+
+R: Si los módulos de memoria están en mal estado o sucios o mal conectados, el ordenador se volverá lento, o se bloqueará,
+ se podrán producir reinicios espontáneos, pantallazos azules y mensajes de error.
+
+¿Fallo de los disparadores en el microprocesador?
+
+R: El equipo se torna inestable; en un principio puede presentar cuelgues en aplicaciones que requieren mayores capacidades, 
+pero luego la circunstancia, se repite aun frente a las tareas más simples.
+
+¿Los ventiladores están parados?
+
+R: Avería o demasiado polvo. Por último, pueden estar averiados o simplemente tienen tanto polvo solidificado que impide a las aspas moverse. Para limpiar los ventiladores sucios
+ se recomiendo aire comprimido y alcohol isopropílico para humedecer el polvo, ablandarlo y eliminarlo con más facilidad.
+
+¿Reanura PCI-Express?
+
+R: Un error de novato es forzar la instalación de la tarjeta gráfica por desconocimiento del funcionamiento de la ranura PCI-Express principal. En todas las placas base modernas, la ranura x16 (la principal) 
+tiene un botón o pulsador que desbloquea la ranura para poder extraer la tarjeta gráfica.
 
 
 
