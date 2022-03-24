@@ -101,8 +101,47 @@ o un problema con el controlador.
 
 R: Si reinicias tu computadora y ves que la resolución ha cambiado o que los iconos del escritorio y los textos están truncados o grandes, normalmente está relacionado con tu tarjeta gráfica. Muchas veces, sólo necesita actualizar los controladores de gráficos
 
-¿ 
+¿Problemas con las unidades CD/DVD?
 
+R: El polvo y la suciedad pueden acumularse en la bandeja y ranura de la unidad CD/DVD, lo cual puede interrumpir la capacidad del escáner para leer los discos. En la mayoría de los casos, 
+con solo limpiar el CD con un algodón humedecido en alcohol el problema se soluciona.
+
+¿Problemas con el ratón?
+
+R: La suciedad también puede acumularse en el ratón, provocando que no funcionen correctamente. Limpia regularmente el interior del ratón
+
+¿Problemas con el teclado?
+
+R: La suciedad también puede acumularse en el teclado, sacude el teclado para que ambos dispositivos sigan funcionando de forma apropiada.
+
+¿Fallas en la tarjeta de vídeo?
+
+R: Si enciendes tu computadora y no aparece nada en la pantalla, pero logras ver que otros dispositivos están encendidos (como el mouse y el teclado), es posible que tu tarjeta de video esté fallando. 
+Antes de optar por ordenar un reemplazo o pedirle a un técnico que lo haga por ti, lo ideal sería que probaras con otro cable de video
+
+¿El vídeo se queda pasmado?
+
+R: la posibl solución es cambiar la memoria RAM o revisar la temperatura de la PC
+
+¿Perdida de información?
+
+R: optimizar el disco duro o hacer una limpieza de software 
+
+¿El vídeo se ve amarillo, azul o verde?
+
+R: revisar si los conectores están bien conectados al monitor
+
+¿Ya no enciende la CPU?
+
+R: cambio de fuente de poder o Motherboard
+
+¿Se abren muchas ventanas al navegar en internet?
+
+R: limpieza de software ( virus,spyware,adware,etc)
+
+¿Windows tarda mucho en iniciar y cerrar?
+
+R: es necesario optimizar el pregama de inicio o una limpieza de software
 
 
 
