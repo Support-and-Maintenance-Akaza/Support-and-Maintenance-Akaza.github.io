@@ -2,7 +2,7 @@
 
 Support-and-Maintenance-Akaza
 
-Con mas de 20 años de experiencia en Mantenimiento akaza les ofrecemos todo tipo de manteinmiento en computadoras
+*Con mas de 20 años de experiencia en Mantenimiento akaza les ofrecemos todo tipo de manteinmiento en computadoras
 contamos con tecnicos especializados con certificacion 
 
 *Mision de empresa: Ayudando y contribuyendo poniento a tu dispocicion a los mejores tecnicos en mantenimiento en computadoras con la mejor calidad
