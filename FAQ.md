@@ -168,6 +168,21 @@ R: Avería o demasiado polvo. Por último, pueden estar averiados o simplemente 
 R: Un error de novato es forzar la instalación de la tarjeta gráfica por desconocimiento del funcionamiento de la ranura PCI-Express principal. En todas las placas base modernas, la ranura x16 (la principal) 
 tiene un botón o pulsador que desbloquea la ranura para poder extraer la tarjeta gráfica.
 
+¿ El sistema falla después de trabajar un rato?
+
+R: checar si están trabajando los ventiladores, se puede colocar un ventilador portátil en el interior del equipo
+
+¿La computadora demora mucho tiempo en encender?
+
+R: puedes desabilitar algúnos programas innecesarios que incian al arrancar la computadora
+
+¿No hay espacio sobre el disco duro?
+
+R: vacia la papelería de reciclaje , limpi los archivos del directorio temporal
+
+¿Se escucha ruido en los ventiladores?
+
+R: si el ventilador de la fuente de poder hacer ruido, limpialo y si el problema no se resuelve cambialo.
 
 
 
