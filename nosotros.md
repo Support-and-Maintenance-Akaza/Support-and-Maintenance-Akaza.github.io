@@ -1,6 +1,6 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-Support-and-Maintenance-Akaza
+## Support-and-Maintenance-Akaza
 
 * Con mas de 20 años de experiencia en Mantenimiento akaza les ofrecemos todo tipo de manteinmiento en computadoras
 contamos con tecnicos especializados con certificacion 
