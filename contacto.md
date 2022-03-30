@@ -8,7 +8,17 @@
 * Contactanos en WhatsApp: 5610258642
 
 <form action="https://formspree.io/f/xeqnlgvq" method="post">
-Nombre: <input type="text" name="name"><br>
+Nombre: <input type="text" name="nombre"><br>
+  
+Apellido: <input type="text" name="apellido"><br>
+
 E-mail: <input type="text" name="email"><br>
+  
+Telefono: <input type="tel">
+  
+Fecha: <input type="datetime-local">
+
+Calificacion de servicio: <input type="range">
+  
 <input type="submit">
 </form>
